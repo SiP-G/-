@@ -1,0 +1,1 @@
+тензор? https://fenicsproject.org/olddocs/dolfin/1.6.0/python/programmers-reference/cpp/la/TensorLayout.html#dolfin.cpp.la.TensorLayout
